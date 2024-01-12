@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Java+Dsa**
 - ✨ I’m a BCA student at DCRUST, Sonipat, Haryana.
 - 🔷Self Motivated & Fast Learner
-- 🔰 How to reach me 👉**neerajkumar62061@gmail.com**
+- 🔰 How to reach me 👉**neerajshandilya04@gmail.com**
 
 <h3 align="left"><b>🤝Connect with me:</b></h3>
 <p align="left">
