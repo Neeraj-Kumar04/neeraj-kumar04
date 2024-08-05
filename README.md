@@ -36,14 +36,16 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<h4>Just Scan and connect🤝</h4>
+ <img src="https://github.com/neeraj-kumar04/neeraj-kumar04/blob/main/LINKEDIN%20LOGO.png" height="150px" width="150px"/>
+
 <b>Watch 🐍Snake🐍 eating my Github Contribution</b>
 <p align="center">
   <img src="https://github.com/neeraj-kumar04/neeraj-kumar04/blob/main/github-contribution-grid-snake.svg"/>
 </p>
-<b>Be Focus🎯</b>
 
- <p align="right" ><img src="https://github.com/Neeraj-Kumar2004/Neeraj-Kumar2004/blob/main/dart.png" width="20%"/> <img src="https://github.com/neeraj-kumar04/neeraj-kumar04/blob/main/a1.gif"/></p> 
 
  ### <img src="https://github.com/neeraj-kumar04/neeraj-kumar04/blob/main/Rocket.gif" width="18px">Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/neeraj-kumar04?tab=repositories)!
 <p align="Center" ><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="230px" width ="230px"></p>
+
 
