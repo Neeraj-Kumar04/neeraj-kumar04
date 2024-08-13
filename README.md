@@ -1,4 +1,6 @@
 ![logo](https://github.com/neeraj-kumar04/neeraj-kumar04/blob/main/banner.jpeg)
+<a href="https://github.com/neeraj-kumar04/neeraj-kumar04/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=23&duration=4000&pause=350&color=FF6E04&background=10101000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Neeraj+Kumar+!;welcome+%F0%9F%99%8F+to+my+Github+Profile+" alt="Typing SVG" /></a></h1>
 <img align="right"  width="400" alt="Coding" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
@@ -48,4 +50,8 @@
  ### <img src="https://github.com/neeraj-kumar04/neeraj-kumar04/blob/main/Rocket.gif" width="18px">Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/neeraj-kumar04?tab=repositories)!
 <p align="Center" ><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="230px" width ="230px"></p>
 
-
+## ❤ Views and Followers
+<a href="https://github.com/neeraj-kumar04/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=neeraj-kumar04">
+</a>
+<a href="https://github.com/neeraj-kumar04?tab=followers"><img src="https://img.shields.io/github/followers/neeraj-kumar04?label=Followers&style=social" alt="GitHub Badge"></a>
